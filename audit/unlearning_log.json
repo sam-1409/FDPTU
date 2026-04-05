@@ -1,0 +1,53 @@
+[
+  {
+    "client_id": "1",
+    "shard_id": 0,
+    "affected_rounds": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "pre_model_hash": "909019dfaea886d5ec80810631b9f5c017bfb1185d1ef4ff8ae354079d8b5f91",
+    "post_model_hash": "938213c5e7da6ae37ccc62c387150bcc32f660a238092800390f737889c0bc0d",
+    "timestamp": 1769174507.367885
+  },
+  {
+    "client_id": "1",
+    "shard_id": 0,
+    "affected_rounds": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9
+    ],
+    "pre_model_hash": "83fc4acfbed45b03bd539d2167382ee192563fac8c6e589ceaa443df6df22413",
+    "post_model_hash": "072f983deae48033c36914e8dc971cd6f5284df2a99a5e5578e6f11293452bda",
+    "timestamp": 1769193934.2131724
+  },
+  {
+    "client_id": "1",
+    "shard_id": 0,
+    "affected_rounds": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "pre_model_hash": "1ea6a42661d68856062759fa6b8c6728eacf641527433776d4c855946d7fb750",
+    "post_model_hash": "fd44b16fe9289dc2be0e0469fbf83231174dd607fdf9c7f343690556e0fc8ac6",
+    "timestamp": 1769194644.252063
+  }
+]

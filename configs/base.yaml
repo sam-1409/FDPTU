@@ -1,0 +1,24 @@
+seed: 42
+
+federated:
+  num_clients: 45
+  rounds: 100
+  client_fraction: 0.3
+
+training:
+  local_epochs: 2
+  batch_size: 32
+  lr: 0.01
+  optimizer: sgd
+
+privacy:
+  dp: false
+  noise_multiplier: 1.0
+  max_grad_norm: 1.0
+
+unlearning:
+  enabled: false
+
+attack:
+  enabled: false
+  threshold: 0.8
